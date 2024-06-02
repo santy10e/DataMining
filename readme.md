@@ -26,7 +26,7 @@ Este repositorio contiene proyectos y recursos relacionados con la minería de d
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/DataMining.git
+   git clone https://github.com/santy10e/DataMining.git
 
 
 ## Uso
